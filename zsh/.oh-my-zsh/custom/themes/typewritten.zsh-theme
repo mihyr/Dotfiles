@@ -1,0 +1,1 @@
+/home/mihir/.dotfiles/zsh/.oh-my-zsh/custom/themes/typewritten/typewritten.zsh-theme
