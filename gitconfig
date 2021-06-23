@@ -1,0 +1,10 @@
+# This is Git's per-user configuration file.
+[user]
+	email = mspatel1298@gmail.com
+	name = whomihirpatel
+# Please adapt and uncomment the following lines:
+#	name = Mihir Patel
+#	email = mihir@mihixps.(none)
+[core]
+	editor = code --wait
+	excludesfile = /home/mihir/.gitignore_global
