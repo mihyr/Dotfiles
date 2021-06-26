@@ -1,7 +1,19 @@
+- defaults:
+    link:
+      force: true
+      relink: true
+      create: true
 
+- clean: ["~"]
 
 - link:
-    ~/.gitconfig: gitconfig
+    # Login Session
     ~/.zshrc: zshrc
 
-
+    # Applications
+    ~/.config/kitty/kitty.conf: kitty.conf
+    ~/.gitconfig: gitconfig
+    
+    # VIM
+    ~/.config/nvim/init.vim: nvim/init.vim
+    #~/.config/Code/User/settings.json: code/settings.json
